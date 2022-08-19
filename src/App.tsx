@@ -18,6 +18,8 @@ function App() {
         >
           Learn React
         </a>
+
+        <button onClick={() => window.open('https://scherlock90.github.io/react-app-pwa-test/')}>Open in new tab</button>
       </header>
     </div>
   );
